@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Tap the Target</string>
+    <string name="btn_lanjutkan">Lanjutkan</string>
+    <string name="btn_main_lagi">Main Lagi</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_ulangi">Ulangi</string>
+    <string name="desc_latar">Latar belakang taman malam</string>
+    <string name="desc_target">Target yang harus ditekan</string>
+    <string name="game_over">Waktu Habis!</string>
+    <string name="judul_jeda">Permainan Dijeda</string>
+    <string name="label_skor">Skor: %1$d</string>
+    <string name="label_waktu">Waktu: %1$d</string>
+    <string name="skor_akhir">Skor akhir kamu</string>
+    <string name="skor_sementara">Skor sementara</string>
+    <style name="Theme.TapTheTarget" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>
